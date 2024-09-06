@@ -1,0 +1,57 @@
+# Basic Information 
+title: Wenbin He
+position: Master Student
+affiliation: Minzu University of China
+email: wbhe00[at]gmail.com
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: Multimodal Learning, Machine Learning
+description: Academic personal homepage of WbHe.
+canonical: https://https://bbihh.github.io/
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?hl=en&user=BrZojONql40C&view_op=list_works&gmla=AC6lMd_HrhAr0R5CxZZj5C_VywrceAElkbwieEX7ayJOvL4DxGLVjI4vfpWyJA50FXE3efq8UWxC4QWeDPfd9PD6f7Wjx5X5vmVf8bijCIbZAsM7XM8Ifq_3yOYHDN5tJQ
+cv_link: assets/files/C_V__wbhe (0906).pdf
+github_link: https://github.com/BbiHH
+orcid_link: https://orcid.org/0009-0006-5643-3309
+weixin_link: assets/img/wechat-1.png
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: False
+
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: False
+
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
+
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+
+
+# Use this project as a remote theme for GitHub Pages
+# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+remote_theme: yaoyao-liu/minimal-light
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/
