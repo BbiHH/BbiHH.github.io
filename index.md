@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Student student at ...
+I am a Master Student of Minzu University of China.
 
 ## Research Interests
 
