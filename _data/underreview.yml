@@ -1,18 +1,13 @@
 main:
 
-  - title: "Enhancing Text-Image Person Re-identification via Intra-Class Relevance Learning"
-    authors: <strong>Wenbin He</strong>, Yutong Gao, Wenjian Liu, Chaomurilige, Zheng Liu, Ao Guo
-    conference_short: ICA3PP
-    conference: International Conference on Algorithms and Architectures for Parallel Processing <strong>(ICA3PP)</strong>, 2024.
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/ICA3PP-ov.png
-    notes: 
+  - title: "Cross-Lingual Adaptation forVision-Language Model via Multimodal Semantic Distillation"
+    authors: Yu Weng*, <strong>Wenbin He*</strong>, Jun Dong, Chaomurilige, Xuan Liu, Zheng Liu (*Co-first authors)
+    conference_short: TMM
+    conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>.
+    notes: In Peer Review
 
   - title: "Zero-Shot Cross-Lingual Knowledge Transfer in VQA via Multimodal Distillation"
-    authors: Yu Weng*, Jun Dong*, <strong>Wenbin He*</strong>, Chaomurilige, Xuan Liu, Zheng Liu, Honghao Gao (*Co-first authors)
-    conference_short: TCSS
-    conference: IEEE Transactions on Computational Social Systems <strong>(TCSS)</strong>.
-    pdf: https://ieeexplore.ieee.org/abstract/document/10574223/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:SkbfiWUx-PEJ:scholar.google.com/&output=citation&scisdr=ClHEWHHWEJjnim38Rgk:AFWwaeYAAAAAZtv6XgmW2qUPpRMvPTZUojqkhZo&scisig=AFWwaeYAAAAAZtv6Xu65bHjJgc-yESuHuILjXjY&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/TCSS-ov.png
-    notes:
+    authors: Guanfu Chen, Xiao Liang, <strong>Wenbin He</strong>
+    conference_short: IJHCI
+    conference: International Journal of Human-Computer Interaction <strong>(IJHCI)</strong>.
+    notes: In Peer Review
