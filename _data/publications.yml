@@ -5,7 +5,7 @@ main:
     conference_short: ICA3PP
     conference: International Conference on Algorithms and Architectures for Parallel Processing <strong>(ICA3PP)</strong>, 2024.
     pdf: 
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: #
     page:
     image: ./assets/img/ICA3PP-ov.png
     notes: 
