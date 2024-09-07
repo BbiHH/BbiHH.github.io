@@ -6,7 +6,9 @@ layout: homepage
 
 I am **He Wenbin**, a third-year graduate student at [Minzu University of China ( 985 ,211 projects )](https://www.muc.edu.cn/xxgk1.htm). My academic journey in computer science began at the [University of South China](https://www.usc.edu.cn/xxgk/xxjj.htm), where I completed my undergraduate studies. I am very fortunate to be advised by [Prof. Weng](https://gjaqyjy.muc.edu.cn/info/1052/1171.htm) from the School of Computer Science.
 
-*** Currently, I am seeking a Ph.D. opportunity to further deepen my research in the field of Artificial Intelligence. ***
+** \*Currently, I am seeking a Ph.D. opportunity to further deepen my research in the field of Artificial Intelligence. \* **
+
+
 
 ## Research Interests
 
