@@ -8,7 +8,7 @@ main:
     bibtex: #
     page:
     image: ./assets/img/ICA3PP-ov.png
-    notes: 
+    notes: CCF-C
 
   - title: "Zero-Shot Cross-Lingual Knowledge Transfer in VQA via Multimodal Distillation"
     authors: Yu Weng*, Jun Dong*, <strong>Wenbin He*</strong>, Chaomurilige, Xuan Liu, Zheng Liu, Honghao Gao (*Co-first authors)
@@ -18,4 +18,4 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:SkbfiWUx-PEJ:scholar.google.com/&output=citation&scisdr=ClHEWHHWEJjnim38Rgk:AFWwaeYAAAAAZtv6XgmW2qUPpRMvPTZUojqkhZo&scisig=AFWwaeYAAAAAZtv6Xu65bHjJgc-yESuHuILjXjY&scisf=4&ct=citation&cd=-1&hl=en
     page: 
     image: ./assets/img/TCSS-ov.png
-    notes:
+    notes: JCR Q1, CCF-C
