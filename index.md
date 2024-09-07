@@ -12,7 +12,7 @@ I am **He Wenbin**, a third-year graduate student at [Minzu University of China 
 
 ## Research Interests
 
-- **Multimodal Understanding:** large multimodal model,vision language model, visual question answering, image-text retrieval
+- **Multimodal Understanding:** multimodal large language model, vision language model, visual question answering, image-text retrieval
 - **Computer Vision:** video action recognition, text-to-video generation, open-domain object detection
 - **Machine Learning:** transfer learning, contrastive learning, knowledge distillation
 
