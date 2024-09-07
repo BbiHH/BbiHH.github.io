@@ -127,17 +127,7 @@
 
     </footer>
   </div>
-  <script src="{{ " /assets/js/scale.fix.js" | relative_url }}">
-      $(function () {
-      $("#wechat").click(function () {
-        $("#qrcode").fadeIn("slow");
-      });
-
-      $("#qrcode").click(function () {
-        $("#qrcode").fadeOut("slow");
-      })
-    });
-  </script>
+  <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
   {% if site.google_analytics %}
   <script>
     (function (i, s, o, g, r, a, m) {
@@ -150,6 +140,17 @@
     ga('send', 'pageview');
   </script>
   {% endif %}
+  <scrpit>
+    $(function () {
+      $("#wechat").click(function () {
+        $("#qrcode").fadeIn("slow");
+      });
+
+      $("#qrcode").click(function () {
+        $("#qrcode").fadeOut("slow");
+      })
+    });
+  </scrpit>
 
 </body>
 
