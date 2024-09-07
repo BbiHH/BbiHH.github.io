@@ -1,22 +1,18 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+  - title: "Enhancing Text-Image Person Re-identification via Intra-Class Relevance Learning"
+    authors: <strong>Wenbin He</strong>, Yutong Gao, Wenjian Liu, Chaomurilige, Zheng Liu, Ao Guo
+    conference_short: ICA3PP
+    conference: International Conference on Algorithms and Architectures for Parallel Processing <strong>(ICA3PP)</strong>, 2024.
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    image: ./assets/img/ICA3PP-ov.png
+    notes: 
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Zero-Shot Cross-Lingual Knowledge Transfer in VQA via Multimodal Distillation"
+    authors: Yu Weng*, Jun Dong*, <strong>Wenbin He*</strong>, Chaomurilige, Xuan Liu, Zheng Liu, Honghao Gao (*Co-first authors)
+    conference_short: TCSS
+    conference: IEEE Transactions on Computational Social Systems <strong>(TCSS)</strong>.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10574223/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:SkbfiWUx-PEJ:scholar.google.com/&output=citation&scisdr=ClHEWHHWEJjnim38Rgk:AFWwaeYAAAAAZtv6XgmW2qUPpRMvPTZUojqkhZo&scisig=AFWwaeYAAAAAZtv6Xu65bHjJgc-yESuHuILjXjY&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/TCSS-ov.png
+    notes:
