@@ -13,5 +13,4 @@
   <li><a href="https://mlicom.eai-conferences.org/2023/"><autocolor>8th EAI International Conference on Machine Learning and Intelligent Communications (EAI MLICOM 2023)</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
