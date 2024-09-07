@@ -14,9 +14,9 @@ I am **He Wenbin**, a third-year graduate student at [Minzu University of China 
 
 ## News
 
-- **[Aug. 2024]** One paper is accepted to ICA3PP 2024.
-- **[July. 2024]** One paper is accept to ICCC 2024.
-- **[Apr. 2024]** One paper is published in IEEE Transactions on Computational Social Systems.
+- **[Aug. 2024]** One paper [*Enhancing Text-Image Person Re-identification via Intra-Class Relevance Learning*] is accepted to ICA3PP 2024. *(CCF-C)*
+- **[July. 2024]** One paper [*Enabling Trustable Financing: A Verifiable Privacy-preserving Cross-chain Protocol*] is accept to ICCC 2024.
+- **[Apr. 2024]** One paper [*Zero-Shot Cross-Lingual Knowledge Transfer in VQA via Multimodal Distillation*] is published in IEEE Transactions on Computational Social Systems.  *(JCR Q1, CCF-C)*
 
 {% include_relative _includes/publications.md %}
 
