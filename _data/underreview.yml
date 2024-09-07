@@ -1,6 +1,6 @@
 main:
 
-  - title: "Cross-Lingual Adaptation forVision-Language Model via Multimodal Semantic Distillation"
+  - title: "Cross-Lingual Adaptation for Vision-Language Model via Multimodal Semantic Distillation"
     authors: Yu Weng*, <strong>Wenbin He*</strong>, Jun Dong, Chaomurilige, Xuan Liu, Zheng Liu (*Co-first authors)
     conference_short: TMM
     conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>. [<i>SCI Q1, Top, CCF-B</i>]
