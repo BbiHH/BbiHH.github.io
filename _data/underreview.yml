@@ -3,11 +3,11 @@ main:
   - title: "Cross-Lingual Adaptation forVision-Language Model via Multimodal Semantic Distillation"
     authors: Yu Weng*, <strong>Wenbin He*</strong>, Jun Dong, Chaomurilige, Xuan Liu, Zheng Liu (*Co-first authors)
     conference_short: TMM
-    conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>.
+    conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>. [<i>JCR Q1, Top, CCF-B</i>]
     notes: In Peer Review
 
   - title: "Zero-Shot Cross-Lingual Knowledge Transfer in VQA via Multimodal Distillation"
     authors: Guanfu Chen, Xiao Liang, <strong>Wenbin He</strong>
     conference_short: IJHCI
-    conference: International Journal of Human-Computer Interaction <strong>(IJHCI)</strong>.
+    conference: International Journal of Human-Computer Interaction <strong>(IJHCI)</strong>. [<i>CCF-B</i>]
     notes: In Peer Review
