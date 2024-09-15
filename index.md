@@ -14,6 +14,7 @@ I am **He Wenbin**, a third-year graduate student at [Minzu University of China 
 
 - **Multimodal Understanding:** multimodal large language model, vision language model, visual question answering, image-text retrieval
 - **Computer Vision:** video action recognition, text-to-video generation, open-domain object detection
+- **Natural Language Processing:** large language model, multilingual adaptation
 - **Machine Learning:** transfer learning, contrastive learning, knowledge distillation
 
 ## News
