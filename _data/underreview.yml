@@ -7,10 +7,10 @@ main:
     notes: Under Review after MAJOR REVISION (RQ)
 
   - title: "Enhancing Human-Computer Interaction through Decoupling Motion and Camera Control in Human-Centric Video Generation"
-    authors: Guanfu Chen, Xiao Liang, <strong>Wenbin He</strong>
+    authors: Guanfu Chen*, Xiao Liang*, <strong>Wenbin He*</strong> (*Co-first authors)
     conference_short: IJHCI
-    conference: International Journal of Human-Computer Interaction <strong>(IJHCI)</strong>. [<i>JCR Q1, CCF-B</i>]
-    notes: In Peer Review
+    conference: International Journal of Human-Computer Interaction <strong>(IJHCI)</strong>. [<i>CCF-B</i>]
+    notes: Under Review after MAJOR REVISION (RQ)
 
   - title: "LGVLM-mIoT: A Lightweight Generative Vision-Language Model for Multilingual IoT Applications"
     authors: Yu Weng, Kunyu Yang, Zheng Liu, <strong>Wenbin He</strong>, Xiangyun Tang
