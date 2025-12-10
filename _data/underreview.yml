@@ -1,19 +1,2 @@
 main:
 
-  - title: "Cross-Lingual Adaptation for Vision-Language Model via Multimodal Semantic Distillation"
-    authors: Yu Weng*, <strong>Wenbin He*</strong>, Jun Dong, Chaomurilige, Xuan Liu, Zheng Liu (*Co-first authors)
-    conference_short: TMM
-    conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>. [<i>SCI Q1, Top, CCF-B</i>]
-    notes: Under Review after MAJOR REVISION (RQ)
-
-  - title: "Enhancing Human-Computer Interaction through Decoupling Motion and Camera Control in Human-Centric Video Generation"
-    authors: Guanfu Chen*, Xiao Liang*, <strong>Wenbin He*</strong> (*Co-first authors)
-    conference_short: IJHCI
-    conference: International Journal of Human-Computer Interaction <strong>(IJHCI)</strong>. [<i>CCF-B</i>]
-    notes: Under Review after MAJOR REVISION (RQ)
-
-  - title: "LGVLM-mIoT: A Lightweight Generative Vision-Language Model for Multilingual IoT Applications"
-    authors: Yu Weng, Kunyu Yang, Zheng Liu, <strong>Wenbin He</strong>, Xiangyun Tang
-    conference_short: IoTJ
-    conference: Internet of Things Journal <strong>(IoTJ)</strong>. [<i>SCI Q1, Top, CCF-C</i>]
-    notes: In Peer Review

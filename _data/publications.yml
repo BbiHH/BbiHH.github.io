@@ -1,14 +1,24 @@
 main:
 
+  - title: "Cross-Lingual Adaptation for Vision-Language Model via Multimodal Semantic Distillation"
+    authors: Yu Weng*, <strong>Wenbin He*</strong>, Jun Dong, Chaomurilige, Xuan Liu, Zheng Liu (*Co-first authors)
+    conference_short: TMM
+    conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>. [<i>SCI Q1, Top, CCF-B</i>]
+    pdf: https://ieeexplore.ieee.org/abstract/document/10948343
+    bibtex: #
+    page:
+    image: ./assets/img/TMM-ov.png
+    notes: 
+
   - title: "Enhancing Text-Image Person Re-identification via Intra-Class Relevance Learning"
     authors: <strong>Wenbin He</strong>, Yutong Gao, Wenjian Liu, Chaomurilige, Zheng Liu, Ao Guo
     conference_short: ICA3PP
     conference: International Conference on Algorithms and Architectures for Parallel Processing <strong>(ICA3PP)</strong>, 2024. [<i>CCF-C</i>]
-    pdf: 
+    pdf: https://link.springer.com/chapter/10.1007/978-981-96-1528-5_12
     bibtex: #
     page:
     image: ./assets/img/ICA3PP-ov.png
-    notes:
+    notes: 
 
   - title: "Zero-Shot Cross-Lingual Knowledge Transfer in VQA via Multimodal Distillation"
     authors: Yu Weng*, Jun Dong*, <strong>Wenbin He*</strong>, Chaomurilige, Xuan Liu, Zheng Liu, Honghao Gao (*Co-first authors)
@@ -19,3 +29,23 @@ main:
     page: 
     image: ./assets/img/TCSS-ov.png
     notes: 
+
+  - title: "Enhancing Human-Computer Interaction through Decoupling Motion and Camera Control in Human-Centric Video Generation"
+    authors: Guanfu Chen*, Xiao Liang*, <strong>Wenbin He*</strong> (*Co-first authors)
+    conference_short: IJHCI
+    conference: International Journal of Human-Computer Interaction <strong>(IJHCI)</strong>. [<i>CCF-B</i>]
+    pdf: https://www.tandfonline.com/doi/abs/10.1080/10447318.2025.2487877
+    bibtex:
+    page:
+    image: ./assets/img/IJHCI-ov.png
+    notes: 
+
+  - title: "LGVLM-mIoT: A Lightweight Generative Vision-Language Model for Multilingual IoT Applications"
+    authors: Yu Weng, Kunyu Yang, Zheng Liu, <strong>Wenbin He</strong>, Xiangyun Tang
+    conference_short: IoTJ
+    conference: Internet of Things Journal <strong>(IoTJ)</strong>. [<i>SCI Q1, Top, CCF-C</i>]
+    pdf: https://ieeexplore.ieee.org/abstract/document/10877932
+    bibtex:
+    page:
+    image: ./assets/img/IoTJ-ov.png
+    notes: Accepted
