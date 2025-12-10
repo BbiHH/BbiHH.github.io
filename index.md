@@ -4,9 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am **He Wenbin**, currently a Ph.D. student at **Hunan University (985, 211 projects)** under the supervision of [**Prof. Cao Da**](https://csee.hnu.edu.cn/people/caoda).  
-Previously, I received my Master's degree from **Minzu University of China (985, 211 projects)**, and my Bachelor's degree from the **University of South China**.  
-My academic journey has been driven by a strong passion for Artificial Intelligence, especially vision-language understanding and cognitive intelligence.
+I am **He Wenbin**, currently a Ph.D. student at **Hunan University (985, 211 projects)** under the supervision of [**Prof. Cao Da**](https://csee.hnu.edu.cn/people/caoda). Previously, I received my Master's degree from **Minzu University of China (985, 211 projects)**, and my Bachelor's degree from the **University of South China**.  My academic journey has been driven by a strong passion for Artificial Intelligence, especially vision-language understanding and cognitive intelligence.
 
 **_I am dedicated to advancing next-generation intelligent systems through unified perception, reasoning, and decision-making._**
 
