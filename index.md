@@ -10,9 +10,11 @@ I received my master's degree from Minzu University of China and my bachelor's d
 
 ## Research Interests
 
-My current research focuses on **visual reasoning in vision-language models**, particularly *Thinking with Images*. I use cropping and zooming as examples of how a model can gather more visual evidence while reasoning. I am exploring how **reinforcement learning** can help a model choose which region to inspect and at what scale, and how to tell whether the new view helped it answer the question.
-
-In my earlier work on **multilingual vision-language learning**, I used distillation to extend English-trained models to other languages. I explored this in [general-purpose vision-language model adaptation](#paper-tmm) and [cross-lingual visual question answering](#paper-tcss).
+- Multimodal Learning
+- Multimodal Alignment
+- Agentic Models
+- Visual Reasoning & Thinking with Images
+- Reinforcement Learning
 
 {% include_relative _includes/publications.md %}
 
