@@ -66,6 +66,10 @@
       </a>
       <br>
       {% endif %}
+      {% if site.email %}
+      <email>{{ site.email | escape }}</email>
+      <br>
+      {% endif %}
       <br>
       <div class="social-icons">
         {% if site.google_scholar %}
