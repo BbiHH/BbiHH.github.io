@@ -18,8 +18,8 @@ I received my master's degree from Minzu University of China and my bachelor's d
 
 {% include_relative _includes/publications.md %}
 
-## Research Experience
+## Honors and Awards
 
-**Research Intern, Aerospace Information Research Institute, Chinese Academy of Sciences** (2024–2025). Worked on high-resolution vision-language models and built data synthesis pipelines for tasks including visual grounding and counting.
+- **2026** · China Scholarship Council (CSC) Scholarship for a doctoral research visit to Singapore Management University.
 
 {% include_relative _includes/services.md %}
