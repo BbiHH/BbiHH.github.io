@@ -38,17 +38,6 @@
   <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
   {% endif %}
 
-  <style>
-    #qrcode {
-      display: none;
-      background: fixed;
-    }
-
-    #qrcode img {
-      display: block;
-    }
-  </style>
-  <script src="./assets/js/jquery-3.2.1.js" type="application/javascript"></script>
 </head>
 
 <body>
@@ -77,11 +66,6 @@
       </a>
       <br>
       {% endif %}
-      {% if site.email %}
-      <email>{{ site.email }}</email>
-      {% endif %}
-
-      <br>
       <br>
       <div class="social-icons">
         {% if site.google_scholar %}
@@ -108,16 +92,6 @@
         </a>
         {% endif %}
 
-        {% if site.weixin_link %}
-        <a style="margin: 0 0 0 0" href="javascript:void(0);">
-          <i id="wechat" class="fab fa-weixin"></i>
-        </a>
-
-        <div id="qrcode">
-          <img id="image" width="100%" height="100%" src="{{ site.weixin_link }}">
-        </div>
-
-        {% endif %}
       </div>
       <br>
 
@@ -146,17 +120,6 @@
     ga('send', 'pageview');
   </script>
   {% endif %}
-  <script>
-    $(function () {
-      $("#wechat").click(function () {
-        $("#qrcode").fadeIn("slow");
-      });
-
-      $("#qrcode").click(function () {
-        $("#qrcode").fadeOut("slow");
-      })
-    });
-  </script>
 
 </body>
 

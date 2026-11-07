@@ -7,36 +7,9 @@ main:
     pdf: https://doi.org/10.1109/TMM.2025.3557678
     image: ./assets/img/TMM-ov.png
 
-  - title: "Zero-Shot Cross-Lingual Knowledge Transfer in VQA via Multimodal Distillation"
-    authors: Yu Weng*, Jun Dong*, <strong>Wenbin He*</strong>, Chaomurilige, Xuan Liu, Zheng Liu, Honghao Gao (*Co-first authors)
-    conference_short: TCSS
-    conference: IEEE Transactions on Computational Social Systems, 2025
-    pdf: https://doi.org/10.1109/TCSS.2024.3402270
-    bibtex: https://api.crossref.org/works/10.1109/TCSS.2024.3402270/transform/application/x-bibtex
-    image: ./assets/img/TCSS-ov.png
-
   - title: "Enhancing Human-Computer Interaction Through Decoupling Motion and Camera Control in Human-Centric Video Generation"
     authors: Guanfu Chen*, Xiao Liang*, <strong>Wenbin He*</strong> (*Co-first authors)
     conference_short: IJHCI
     conference: International Journal of Human-Computer Interaction, 2025 · <a href="https://www.ccf.org.cn/Academic_Evaluation/HCIAndPC/">CCF-B</a>
     pdf: https://doi.org/10.1080/10447318.2025.2487877
     image: ./assets/img/IJHCI-ov.png
-
-  - title: "LGVLM-mIoT: A Lightweight Generative Visual-Language Model for Multilingual IoT Applications"
-    authors: Yu Weng, Kunyu Yang, Zheng Liu, <strong>Wenbin He</strong>, Xiangyun Tang
-    conference_short: IoTJ
-    conference: IEEE Internet of Things Journal, 2025
-    pdf: https://doi.org/10.1109/JIOT.2025.3532494
-    image: ./assets/img/IoTJ-ov.png
-
-  - title: "Enhancing Text-Image Person Re-identification via Intra-Class Relevance Learning"
-    authors: <strong>Wenbin He</strong>, Yutong Gao, Wenjian Liu, Chaomurilige, Zheng Liu, Ao Guo
-    conference_short: ICA3PP
-    conference: International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2024)
-    pdf: https://doi.org/10.1007/978-981-96-1528-5_12
-    image: ./assets/img/ICA3PP-ov.png
-
-  - title: "Enabling Trustable Financing: A Verifiable Privacy-Preserving Cross-Chain Protocol"
-    authors: Lidu Lou, <strong>Wenbin He</strong>, Xiangyun Tang, Yiying Yang, Tao Zhang, Yanyu Cheng, Cai Xu
-    conference: IEEE/CIC International Conference on Communications in China Workshops (ICCC Workshops), 2024
-    pdf: https://doi.org/10.1109/ICCCWorkshops62562.2024.10693771

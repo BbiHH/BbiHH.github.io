@@ -29,19 +29,7 @@
   <link rel="stylesheet" href="./assets/css/style.css">
   <link rel="stylesheet" href="./assets/css/publications.css">
 
-  <style>
-    #qrcode {
-      display: none;
-      background: fixed;
-    }
 
-    #qrcode img {
-      display: block;
-    }
-  </style>
-
-  <script src="http://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
-    crossorigin="anonymous"></script>
 
 </head>
 
@@ -95,13 +83,6 @@
           <i class="ai ai-orcid"></i>
         </a>
 
-        <a style="margin: 0 0 0 0" href="javascript:void(0);">
-          <i id="wechat" class="fab fa-weixin"></i>
-        </a>
-        
-        <div id="qrcode">
-          <img id="image" width="100%" height="100%" src="assets/img/wechat-1.png">
-        </div>
 
       </div>
       <br>
@@ -277,15 +258,6 @@
     ga('create', 'UA-111540567-4', 'auto');
     ga('send', 'pageview');
 
-    $(function () {
-      $("#wechat").click(function () {
-        $("#qrcode").fadeIn("slow");
-      });
-
-      $("#qrcode").click(function () {
-        $("#qrcode").fadeOut("slow");
-      })
-    });
   </script>
 
 </body>
