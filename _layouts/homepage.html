@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}">
 
 <head>
   <title>{{ site.title }} | {{site.affiliation}}</title>
@@ -9,7 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{{ site.description }}">
   {% if site.keywords %}
-  <meta name="keywords" content="{{ site.keywords }}">
+  <meta name="keywords" content="{{ site.keywords | escape }}">
   {% endif %}
   {% if site.canonical %}
   <link rel="canonical" href="{{ site.canonical }}" />
@@ -71,6 +71,12 @@
       </a>
       <br>
       {% endif %}
+      {% if site.visiting_affiliation %}
+      <a href="{{ site.visiting_affiliation_link }}">
+        <autocolor>{{ site.visiting_affiliation }}</autocolor>
+      </a>
+      <br>
+      {% endif %}
       {% if site.email %}
       <email>{{ site.email }}</email>
       {% endif %}
@@ -127,7 +133,7 @@
 
     </footer>
   </div>
-  <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
+  <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
   {% if site.google_analytics %}
   <script>
     (function (i, s, o, g, r, a, m) {

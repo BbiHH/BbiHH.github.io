@@ -1,19 +1,22 @@
 # Basic Information 
 title: Wenbin He
-position: Phd Student
+position: Ph.D. Student
 affiliation: Hunan University
+affiliation_link: https://www.hnu.edu.cn/
+visiting_affiliation: Visiting Ph.D. Student at SMU
+visiting_affiliation_link: https://computing.smu.edu.sg/
 email: wbhe00[at]gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Large Vision-Language Learning, Reinforce Learning, Perception & Reasoning, Agentic LLM 
-description: Academic personal homepage of WbHe.
-canonical: https://https://bbihh.github.io/
+keywords: Visual Reasoning, Thinking with Images, Reinforcement Learning, Vision-Language Models
+description: Wenbin He is a Ph.D. student at Hunan University and a CSC-funded visiting Ph.D. student at Singapore Management University. His research interests include visual reasoning, Thinking with Images, and reinforcement learning.
+canonical: https://bbihh.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?hl=en&user=BrZojONql40C&view_op=list_works&gmla=AC6lMd_HrhAr0R5CxZZj5C_VywrceAElkbwieEX7ayJOvL4DxGLVjI4vfpWyJA50FXE3efq8UWxC4QWeDPfd9PD6f7Wjx5X5vmVf8bijCIbZAsM7XM8Ifq_3yOYHDN5tJQ
-cv_link: assets/files/C_V__wbhe(1201).pdf
+google_scholar: https://scholar.google.com/citations?user=BrZojONql40C&hl=en
+cv_link: assets/files/Wenbin_He_CV.pdf
 github_link: https://github.com/BbiHH
 orcid_link: https://orcid.org/0009-0006-5643-3309
 weixin_link: assets/img/wechat-1.png
