@@ -3,6 +3,7 @@ main:
   - title: "Cross-Lingual Adaptation for Vision-Language Model via Multimodal Semantic Distillation"
     authors: Yu Weng*, <strong>Wenbin He*</strong>, Jun Dong, Chaomurilige, Xuan Liu, Zheng Liu (*Co-first authors)
     conference_short: TMM
+    summary: Adapts an English-centric vision-language model to new languages with a syntax-aware adapter and multimodal semantic distillation.
     conference: IEEE Transactions on Multimedia, 2025 · <a href="https://www.ccf.org.cn/Academic_Evaluation/CGAndMT/">CCF-A</a> · <a href="https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026.pdf">JCR 2025 Q1</a>
     pdf: https://doi.org/10.1109/TMM.2025.3557678
     image: ./assets/img/TMM-ov.png
@@ -10,6 +11,7 @@ main:
   - title: "Zero-Shot Cross-Lingual Knowledge Transfer in VQA via Multimodal Distillation"
     authors: Yu Weng*, Jun Dong*, <strong>Wenbin He*</strong>, Chaomurilige, Xuan Liu, Zheng Liu, Honghao Gao (*Co-first authors)
     conference_short: TCSS
+    summary: Transfers visual question-answering capabilities from an English model to other languages through knowledge distillation, with zero-shot evaluation on xGQA.
     conference: IEEE Transactions on Computational Social Systems, 2025
     pdf: https://doi.org/10.1109/TCSS.2024.3402270
     bibtex: https://api.crossref.org/works/10.1109/TCSS.2024.3402270/transform/application/x-bibtex
@@ -18,6 +20,7 @@ main:
   - title: "Enhancing Human-Computer Interaction Through Decoupling Motion and Camera Control in Human-Centric Video Generation"
     authors: Guanfu Chen*, Xiao Liang*, <strong>Wenbin He*</strong> (*Co-first authors)
     conference_short: IJHCI
+    summary: Separates control of human motion from camera movement in text-to-video generation.
     conference: International Journal of Human-Computer Interaction, 2025 · <a href="https://www.ccf.org.cn/Academic_Evaluation/HCIAndPC/">CCF-B</a> · <a href="https://www.tandfonline.com/journals/hihc20/about-this-journal">JCR 2025 Best Quartile Q1</a>
     pdf: https://doi.org/10.1080/10447318.2025.2487877
     image: ./assets/img/IJHCI-ov.png
@@ -25,6 +28,7 @@ main:
   - title: "LGVLM-mIoT: A Lightweight Generative Visual-Language Model for Multilingual IoT Applications"
     authors: Yu Weng, Kunyu Yang, Zheng Liu, <strong>Wenbin He</strong>, Xiangyun Tang
     conference_short: IoTJ
+    summary: Develops a compact multilingual generative vision-language model for tasks such as image captioning and visual question answering on edge devices.
     conference: IEEE Internet of Things Journal, 2025 · <a href="https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026.pdf">JCR 2025 Q1</a>
     pdf: https://doi.org/10.1109/JIOT.2025.3532494
     image: ./assets/img/IoTJ-ov.png
@@ -32,6 +36,7 @@ main:
   - title: "Enhancing Text-Image Person Re-identification via Intra-Class Relevance Learning"
     authors: <strong>Wenbin He</strong>, Yutong Gao, Wenjian Liu, Chaomurilige, Zheng Liu, Ao Guo
     conference_short: ICA3PP
+    summary: Uses within-identity relevance and bidirectional masked matching to learn finer image-text associations for person retrieval.
     conference: International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2024) · <a href="https://www.ccf.org.cn/Academic_Evaluation/ARCH_DCP_SS/">CCF-C</a>
     pdf: https://doi.org/10.1007/978-981-96-1528-5_12
     image: ./assets/img/ICA3PP-ov.png
