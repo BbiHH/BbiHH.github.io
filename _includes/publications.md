@@ -1,6 +1,6 @@
 <h2 id="publications">Selected Publications</h2>
 
-<p style="font-size: 0.9em; margin-bottom: 0;">* Equal contribution · <a href="{{ site.cv_link | relative_url }}">Full list in CV</a></p>
+<p style="font-size: 0.9em; margin-bottom: 0;">* Equal contribution</p>
 
 <div class="publications" style="margin-top: 1rem;">
 <ol class="bibliography">
